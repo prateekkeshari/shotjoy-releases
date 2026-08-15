@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Shotjoy Updates</title>
+    <item>
+      <title>Version 0.1.0</title>
+      <pubDate>Sat, 15 Aug 2026 23:58:13 +0200</pubDate>
+      <sparkle:version>191</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/prateekkeshari/shotjoy-releases/releases/download/v0.1.0/Shotjoy-0.1.0.dmg" type="application/octet-stream"
+                 length="12653594" sparkle:edSignature="U//h9XegKeRZd2KOXoCVSydGSBfZkavYV1X05VAAuA6CR0PM5QnyRogtZnqpQEr0ZSLB1mP4wiSKJ3vYJZsCAg==" />
+    </item>
+  </channel>
+</rss>
