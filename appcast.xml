@@ -3,13 +3,13 @@
   <channel>
     <title>Shotjoy Updates</title>
     <item>
-      <title>Version 0.1.1</title>
-      <pubDate>Sun, 16 Aug 2026 00:10:56 +0200</pubDate>
-      <sparkle:version>195</sparkle:version>
-      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <title>Version 0.2.0</title>
+      <pubDate>Tue, 18 Aug 2026 01:32:00 +0200</pubDate>
+      <sparkle:version>212</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/prateekkeshari/shotjoy-releases/releases/download/v0.1.1/Shotjoy-0.1.1.zip" type="application/octet-stream"
-                 length="11920099" sparkle:edSignature="6Yn2kpghqnxgMTCEi4uReZzC56bMM5SbTsXIz4QKWyfUTAH5yomBoH8TmBJRT0z/HfXniGYUm68tDQ/sHKqNBg==" />
+      <enclosure url="https://github.com/prateekkeshari/shotjoy-releases/releases/download/v0.2.0/Shotjoy-0.2.0.dmg" type="application/octet-stream"
+                 length="37930607" sparkle:edSignature="YLxvO/LPY8PjffQf4z1Tdn4Ih1Rxa4+YChKNtpcV6TOo9DaeWaDwB2OXTVgBJlZARccRQqanUVGOv1VSp8n2Bg==" />
     </item>
   </channel>
 </rss>
