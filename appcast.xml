@@ -3,18 +3,18 @@
   <channel>
     <title>Shotjoy Updates</title>
     <item>
-      <title>Version 0.5.4</title>
-      <pubDate>Mon, 31 Aug 2026 12:23:47 +0200</pubDate>
-      <sparkle:version>247</sparkle:version>
-      <sparkle:shortVersionString>0.5.4</sparkle:shortVersionString>
+      <title>Version 0.5.5</title>
+      <pubDate>Mon, 31 Aug 2026 14:39:22 +0200</pubDate>
+      <sparkle:version>248</sparkle:version>
+      <sparkle:shortVersionString>0.5.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/prateekkeshari/shotjoy-releases/releases/download/v0.5.4/Shotjoy-0.5.4-update.zip" type="application/zip"
-                 length="31914612" sparkle:edSignature="NMI0pSH/+atwH2brnqzBVgH4asf/XcxHg+sjm8nUAqPPTMq9Bl38F2Wdp3+opxpzoj2VhsZy3B4Pg18HdrtoCw=="
+      <enclosure url="https://github.com/prateekkeshari/shotjoy-releases/releases/download/v0.5.5/Shotjoy-0.5.5-update.zip" type="application/zip"
+                 length="31950756" sparkle:edSignature="i/Ez6RzNvcgPy5LwKP2V0XHKnPOW0vu2P3vnT7xhS/ZqD8K858kXEbsMtFpzL7n6J88tRP2rcyNFsrIrniOZDA=="
                  sparkle:installationType="application" />
     </item>
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: UsJN2NmazxFBOEZ/OUEM760xqSPPIQ+TR/Bsu07N6Aq1PqdXcYRaICjic3AVu6iaDzNHZzZAlnV2E+HszpEMCw==
+edSignature: PRMEjkVKfhoda4gV//gsra+jCUTt0E+u1eAlRlzfI5rfz5eNhksVxmgHPwrHBIwguYkCw3H9M2E6Fr2JhvogCQ==
 length: 847
 -->
